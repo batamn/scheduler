@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+thead th {
+  width: 170px;
+}
+
+.buttonGroup {
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+
+}
